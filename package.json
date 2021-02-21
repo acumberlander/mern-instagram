@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "image-file-to-base64-exif": "^1.0.3",
+    "moment": "^2.29.1",
+    "pusher-js": "^7.0.3",
+    "react-flip-move": "^3.0.4",
+    "react-instagram-embed": "^2.0.0",
+    "react-reveal": "^1.2.2"
+  }
+}
